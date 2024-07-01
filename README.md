@@ -1,1 +1,1 @@
-# Mutual_Information_Driver_Federated_learning
+# Mutual_Information_Driven_Federated_learning
